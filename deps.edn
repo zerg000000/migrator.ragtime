@@ -1,0 +1,6 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.0"}
+        duct/core {:mvn/version "0.7.0"}
+        duct/logger {:mvn/version "0.3.0"}
+        integrant {:mvn/version "0.7.0"}
+        pandect {:mvn/version "0.6.1"}
+        ragtime {:mvn/version "0.8.0"}}}
